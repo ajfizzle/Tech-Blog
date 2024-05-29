@@ -85,7 +85,10 @@ This project is a Content Management System (CMS)-style blog site designed for d
 4. Add comments to existing posts.
 
 ## Preview / Screenshot
-
+![alt text](public/images/Edit.png)
+![alt text](public/images/Login.png)
+![alt text](public/images/Logout.png)
+<video controls src="Module 14  Challenge.mp4" title="Title"></video>
 
 ## Contact
 For more projects and information about the developer, please visit:

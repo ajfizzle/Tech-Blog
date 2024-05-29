@@ -97,7 +97,7 @@
   
   main {
     flex: 1;
-    padding: 2% 0%;
+    padding: -1% 0%;
   }
   
   .btn-no-style {
